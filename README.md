@@ -1,0 +1,2 @@
+-RUN myapp.py file on cmd using python myapp.py
+-myapp file contain 4 function  for get,insert,update and delete  while running uncomment the function need to use for operation 
